@@ -8,3 +8,7 @@
 header h1 {
     font-weight: var(--font-title);
 }
+
+header p {
+    font-weight: var(--font-body-text);
+}
