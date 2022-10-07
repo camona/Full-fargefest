@@ -43,7 +43,7 @@ header p {
     width: 40rem;
     height: 50rem;
     padding: 5px;
-    border-radius: 50px;
+    border-radius: 4rem;
 }
 
 .header-enkeltbilde {
@@ -120,4 +120,9 @@ main p {
     font-weight: var(--font-body-text);
     font-size: 14px;
     
+}
+
+.main-image {
+    display: flex;
+    justify-content: right;
 }
