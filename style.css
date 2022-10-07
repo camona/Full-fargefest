@@ -76,10 +76,13 @@ header p {
 }
 
 .boxtekst1og2 {
-    background-color:#fddbe0;
+    background-color:#efdcdf;
     width: 900px;
     padding: 30px;
     margin: 40px;
+    margin-right: 150px;
+    margin-left: 150px;
+    position: relative;
 }
 
 .maincolumn {
@@ -102,16 +105,25 @@ main p {
     width: 400px;
     height: 120px;
     float: right;
+    margin-right: 170px;
+    
 }
 
 .main-bilde-1 img {
     width: 100%;
     height: auto;
+
 }
 
 .tekst-bilde-1{
     font-weight: var(--font-body-text);
     font-size: 14px;
+    width: 250px;
+    padding: 50px;
+    margin-left: 350px;
+
+    
+    
 }
 
 .row:after {
