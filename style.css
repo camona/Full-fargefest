@@ -121,11 +121,26 @@ main p {
 }
 
 .main-image {
-    display: flex;
-    justify-content: right;
-    padding: 0.4rem;
+    float: right;
+    padding-right: 4rem;
+    margin-top: 100px;
+    position: relative;
 }
 
 .main-image img {
-    width: 100rem;
+    width: 50rem;
+}
+
+.lite-bilde img {
+    position: absolute;
+    width: 20rem;
+    bottom: -14rem;
+    left: -14rem;
+    border: solid 1rem white;
+}
+
+.bilder-sammen:after {
+    content: "";
+    display: table;
+    clear: both;
 }
