@@ -82,4 +82,16 @@ main p {
 
 .main-bilde-1{
    
+    width: 400px;
+    height: 120px;
+    float: right;
+}
+.main-bilde-1 img {
+    width: 100%;
+    height: auto;
+}
+
+.tekst-bilde-1{
+    font-weight: var(--font-body-text);
+    font-size: 14px;
 }
