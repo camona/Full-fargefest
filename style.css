@@ -37,6 +37,7 @@ header p {
 .header-bilder {
     display: flex;
     justify-content: center;
+    margin-bottom: 5rem;
 }
 
 .header-enkeltbilde img {
@@ -62,8 +63,8 @@ header p {
 
 .bildetekst-right p {
     font-size: 1rem;
+    text-align: left;
     color: black;
-    text-align: right;
     width: 50%;
     position: absolute;
     top: 17rem;
@@ -112,7 +113,6 @@ main p {
 .main-bilde-1 img {
     width: 100%;
     height: auto;
-
 }
 
 .tekst-bilde-1{
@@ -121,9 +121,6 @@ main p {
     width: 250px;
     padding: 50px;
     margin-left: 350px;
-
-    
-    
 }
 
 .row:after {
@@ -132,11 +129,30 @@ main p {
     clear: both;
 }
 
+.bilder-sammen {
+    position: relative;
+}
+
 .main-image {
     float: right;
-    padding-right: 4rem;
-    margin-top: 100px;
     position: relative;
+    margin-top: 100px;
+    margin-right: 17rem;
+}
+
+.tekst-main-image {
+    position: absolute;
+    width: 25%;
+    top: 10rem;
+    left: -14rem;
+    text-align: right;
+}
+
+.tekst-lite-bilde {
+    position: absolute;
+    width: 30%;
+    left: 6rem;
+    bottom: -10rem;
 }
 
 .main-image img {
