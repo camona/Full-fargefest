@@ -71,27 +71,26 @@ header p {
     left: 1rem;
 }
 
-.mainLise {
-    margin-right: 150px;
-    margin-left: 150px;
-}
 
 .boxtekst1og2 {
     background-color:#efdcdf;
-    width: 900px;
-    padding: 30px;
-    margin: 40px;
-    margin-right: 150px;
-    margin-left: 150px;
-    position: relative;
+    width: 940px;
+    margin: auto;
+    padding: 20px;
+    
 }
 
 .maincolumn {
     float: left;
-    width: 45%;
-    padding: 60px;
+    width: 50%;
+    padding: 80px;
 }
 
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
 main h2 {
     font-weight: var(--font-sub-header);
     font-size: 16px;
@@ -106,7 +105,8 @@ main p {
     width: 400px;
     height: 120px;
     float: right;
-    margin-right: 170px;
+    margin-right: 290px;
+    margin-top: 20px;
     
 }
 
@@ -120,14 +120,10 @@ main p {
     font-size: 14px;
     width: 250px;
     padding: 50px;
-    margin-left: 350px;
+    margin-left: 600px;
 }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
+
 
 .bilder-sammen {
     position: relative;
