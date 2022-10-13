@@ -172,3 +172,107 @@ main p {
 .ina {
     margin-top: 20rem;
 }
+
+.helena {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.main-image-he img {
+    width: 65rem;
+    height: 78rem;
+    float: right;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 25rem;
+}
+
+.lite-bilde-he img {
+    position: absolute;
+    width: 420px;
+    height: 550px;
+    top: 240rem;
+    left: 1.5rem;
+    border: solid 0.8rem white;
+    float: right;
+    
+}
+
+.bilder-sammen-he:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.insta-logo img {
+    position: absolute;
+    width: 4rem;
+    height: 4rem;
+    bottom: -243rem;
+    left: 19rem;
+    float: right;
+    
+}
+
+.tekst-lite-bilde-foot {
+    position: absolute;
+    width: 350px;
+    margin-top: 45rem;
+    padding-top: 0rem;
+    margin-left: 2rem;
+    
+}
+
+.tekst-under-bilde-foot {
+    position: absolute;
+    width: 370px;
+    top: 260rem;
+    margin-top: 46rem;
+    padding-top: 5rem;
+    margin-left: 25rem;
+    padding-bottom: 10rem;
+}
+.vertical-line {
+    border-left: 5px dotted black;
+    height: 31rem;
+    bottom: -270rem;
+    position: absolute;
+    left: 24rem;
+    margin-left: 0px;
+    margin-top: -35px;
+    padding-bottom: -15px;
+  }
+  .insta-header {
+    position: absolute;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: right;
+    margin-left: 8rem;
+    margin-top: 62rem;
+  }
+  .list-instagram {
+    position: absolute;
+    text-transform: uppercase;
+    margin-left: 9rem;
+    margin-top: 64rem;
+    text-align: right;
+    line-height: 1.5rem;
+  }
+    ul{
+    list-style-type: none;
+  }
+  .insta-header2 {
+    position: absolute;
+    font-weight: bold;
+    text-transform: uppercase;
+    float: right;
+    margin-left: 10rem;
+    margin-top: 71rem;
+  }
+  .list-instagram2 {
+    float: right;
+    position: absolute;
+    text-transform: uppercase;
+    margin-left: 14rem;
+    margin-top: 72.5rem;
+    text-align: right;
+    margin-bottom: -5rem;
+  }
