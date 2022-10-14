@@ -128,7 +128,7 @@ main p {
     font-weight: var(--font-body-text);
     font-size: 14px;
     width: 250px;
-    padding: 50px;
+    padding: 40px;
     margin-left: 600px;
     text-align: right;
 }
@@ -205,7 +205,7 @@ main p {
     float: right;
     position: absolute;
     margin-top: 10px;
-    margin-left: 35rem;
+    margin-left: 28rem;
 }
 
 .lite-bilde-he img {
@@ -213,7 +213,7 @@ main p {
     width: 420px;
     height: 550px;
     top: 10rem;
-    left: 13rem;
+    left: 6rem;
     border: solid 1rem white;
     float: right;
     
@@ -229,7 +229,7 @@ main p {
     width: 4rem;
     height: 4rem;
     bottom: -60rem;
-    left: 28rem;
+    left: 21rem;
     float: right;
     
 }
@@ -238,8 +238,8 @@ main p {
     position: absolute;
     width: 330px;
     margin-top: 45rem;
-    margin-left: 14rem;
-    text-align: right;
+    margin-left: 8rem;
+    text-align: left;
     left: -1rem;
 }
 
@@ -249,7 +249,7 @@ main p {
     top: 29rem;
     margin-top: 46rem;
     padding-top: 5rem;
-    margin-left: 35rem;
+    margin-left: 28rem;
     padding-bottom: 10rem;
 }
 .vertical-line {
@@ -257,7 +257,7 @@ main p {
     height: 34rem;
     bottom: -90rem;
     position: absolute;
-    left: 34rem;
+    left: 27rem;
     margin-left: 0px;
     margin-top: -35px;
     padding-bottom: -15px;
@@ -267,13 +267,13 @@ main p {
     font-weight: bold;
     text-transform: uppercase;
     float: right;
-    margin-left: 17rem;
+    margin-left: 11rem;
     margin-top: 62rem;
   }
   .list-instagram {
     position: absolute;
     text-transform: uppercase;
-    margin-left: 18rem;
+    margin-left: 12rem;
     margin-top: 64rem;
     text-align: right;
     line-height: 1.5rem;
@@ -286,14 +286,14 @@ main p {
     font-weight: bold;
     text-transform: uppercase;
     float: right;
-    margin-left: 19rem;
+    margin-left: 13rem;
     margin-top: 71rem;
   }
   .list-instagram2 {
     float: right;
     position: absolute;
     text-transform: uppercase;
-    margin-left: 23rem;
+    margin-left: 17rem;
     margin-top: 72.5rem;
     text-align: right;
     margin-bottom: -5rem;
