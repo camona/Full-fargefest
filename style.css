@@ -154,6 +154,15 @@ main p {
     text-align: right;
 }
 
+.tekst2-main-image {
+    position: absolute;
+    font-weight: bold;
+    font-size: 1.5rem;
+    top: 1rem;
+    right: 1rem;
+    font-family: 'Yeseva One', cursive;
+}
+
 .tekst-lite-bilde {
     position: absolute;
     width: 30%;
