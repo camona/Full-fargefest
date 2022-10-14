@@ -128,7 +128,7 @@ main p {
     font-weight: var(--font-body-text);
     font-size: 14px;
     width: 250px;
-    padding: 50px;
+    padding: 40px;
     margin-left: 600px;
     text-align: right;
 }
