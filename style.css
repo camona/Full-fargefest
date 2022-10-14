@@ -229,7 +229,8 @@ main p {
     width: 330px;
     margin-top: 45rem;
     margin-left: 14rem;
-    
+    text-align: right;
+    left: -1rem;
 }
 
 .tekst-under-bilde-foot {
