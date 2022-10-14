@@ -195,7 +195,7 @@ main p {
     height: 550px;
     top: 10rem;
     left: 13rem;
-    border: solid 0.8rem white;
+    border: solid 1rem white;
     float: right;
     
 }
@@ -234,10 +234,10 @@ main p {
 }
 .vertical-line {
     border-left: 5px dotted black;
-    height: 31rem;
-    bottom: -87rem;
+    height: 34rem;
+    bottom: -90rem;
     position: absolute;
-    left: 33rem;
+    left: 34rem;
     margin-left: 0px;
     margin-top: -35px;
     padding-bottom: -15px;
