@@ -202,7 +202,6 @@ main p {
 .main-image-he img {
     width: 65rem;
     height: 78rem;
-    float: right;
     position: absolute;
     margin-top: 10px;
     margin-left: 28rem;
@@ -215,7 +214,6 @@ main p {
     top: 10rem;
     left: 6rem;
     border: solid 1rem white;
-    float: right;
     
 }
 
@@ -230,7 +228,7 @@ main p {
     height: 4rem;
     bottom: -60rem;
     left: 21rem;
-    float: right;
+    
     
 }
 
