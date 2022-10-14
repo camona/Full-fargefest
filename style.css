@@ -11,6 +11,10 @@
     color: #212427;
 }
 
+header {
+    margin-bottom: 5rem;
+}
+
 header h1 {
     font-weight: var(--font-title);
     text-align: center;
@@ -37,7 +41,6 @@ header p {
 .header-bilder {
     display: flex;
     justify-content: center;
-    margin-bottom: 5rem;
 }
 
 .header-enkeltbilde img {
@@ -69,6 +72,12 @@ header p {
     position: absolute;
     top: 17rem;
     left: 1rem;
+}
+
+.vertical-line-header {
+    border-bottom: 5px dotted black;
+    width: 70rem;
+    margin-bottom: 5rem;
 }
 
 
