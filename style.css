@@ -86,6 +86,7 @@ header p {
     width: 940px;
     margin: auto;
     padding: 20px;
+    margin-top: 240px;
     
 }
 
@@ -111,10 +112,10 @@ main p {
 }
 
 .main-bilde-1{
-    width: 400px;
+    width: 450px;
     height: 120px;
-    margin: auto;
-    margin-bottom: 40px;
+    float: right;
+    margin-right: 450px;
 }
 
 .main-bilde-1 img {
@@ -127,7 +128,7 @@ main p {
     font-size: 14px;
     width: 250px;
     padding: 20px;
-    margin-left: 250px;
+    margin-left: 360px;
     text-align: right;
 }
 
