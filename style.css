@@ -88,19 +88,43 @@ header p {
 }
 
 
+.lises-bilde{
+    width: 80rem;
+    height: 30rem;
+    position: relative;
+}
+
+.main-bilde-1 img{
+    width: 30rem;
+    float: right;
+    position: relative;
+    margin-right: 18rem;
+}
+
+.tekst-bilde-1{
+    font-weight: var(--font-body-text);
+    margin-top: 10rem;
+    width: 20rem;
+    float: left;
+    text-align: right;
+    margin-left: 10rem;
+}
+
 .boxtekst1og2 {
     background-color:#efdcdf;
     width: 940px;
-    margin: auto;
-    padding: 20px;
-    margin-top: 240px;
-
+    height: 33rem; 
+    margin-bottom: 6rem;
+    padding: 30px;
+    
 }
 
 .maincolumn {
     float: left;
     width: 50%;
     padding: 80px;
+    text-align: justify;
+
 }
 
 .row:after {
@@ -119,28 +143,7 @@ main p {
     font-size: 16px;
 }
 
-.main-bilde-1 {
-    width: 400px;
-    height: 300px;
-    float: right;
-    margin-right: 290px;
-    margin-top: 60px;
-}
 
-.main-bilde-1 img {
-    width: 100%;
-    height: auto;
-    position: relative;
-}
-
-.tekst-bilde-1{
-    font-weight: var(--font-body-text);
-    font-size: 14px;
-    width: 280px;
-    margin: -260px 0px 0px -260px;
-    padding: 40px;
-    text-align: right;
-}
 
 
 
