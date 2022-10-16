@@ -2,9 +2,11 @@
     --font-title: 100;
     --font-sub-header: 900;
     --font-body-text: 300;
+    background-color: #fff7ed;
 }
 
 * {
+    
     font-family: 'Roboto', sans-serif;
     margin: 0 auto;
     box-sizing: border-box;
@@ -15,11 +17,16 @@ header {
     margin-bottom: 5rem;
 }
 
+.logo img {
+    width: 10rem;
+    margin: 2rem 0rem 0rem 3rem;
+}
+
 header h1 {
     font-weight: var(--font-title);
     text-align: center;
     font-size: 4rem;
-    margin-top: 8rem;
+    margin-top: 3rem;
     margin-bottom: 1rem;
 }
 
@@ -56,7 +63,7 @@ header p {
 
 .bildetekst-left p {
     font-size: 1rem;
-    color: white;
+    color: #fff7ed;
     text-align: right;
     width: 33%;
     position: absolute;
@@ -100,6 +107,7 @@ header p {
     display: table;
     clear: both;
 }
+
 main h2 {
     font-weight: var(--font-sub-header);
     font-size: 16px;
@@ -110,26 +118,26 @@ main p {
     font-size: 16px;
 }
 
-.main-bilde-1{
+.main-bilde-1 {
     width: 400px;
-    height: 120px;
+    height: 300px;
     float: right;
     margin-right: 290px;
-    margin-top: 20px;
-    
+    margin-top: 60px;
 }
 
 .main-bilde-1 img {
     width: 100%;
     height: auto;
+    position: relative;
 }
 
 .tekst-bilde-1{
     font-weight: var(--font-body-text);
     font-size: 14px;
-    width: 250px;
+    width: 280px;
+    margin: -260px 0px 0px -260px;
     padding: 40px;
-    margin-left: 600px;
     text-align: right;
 }
 
@@ -137,6 +145,8 @@ main p {
 
 .bilder-sammen {
     position: relative;
+    margin-top: 20rem;
+    width: 940px;
 }
 
 .main-image {
@@ -179,7 +189,7 @@ main p {
     width: 20rem;
     bottom: -14rem;
     left: -14rem;
-    border: solid 1rem white;
+    border: solid 1rem #fff7ed;
 }
 
 .bilder-sammen:after {
@@ -188,9 +198,85 @@ main p {
     clear: both;
 }
 
-.ina {
-    margin-top: 20rem;
+
+
+.box3 {
+    background-color: rgb(194, 248, 194);
+    width: 940px;
+    height: 33rem;
+    margin-top: 20rem; 
+    margin-bottom: 6rem;
+    padding: 50px;
 }
+
+.column {
+    float: left;
+    width: 50%;
+    padding: 50px;
+    text-align: justify;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.box3 h2 {
+    font-weight: var(--font-sub-header);
+    padding-bottom: 1rem;
+}
+
+.box3-bilder {
+    width: 80rem;
+    height: 60rem;
+    position: relative;
+}
+
+.bilde1 img {
+    width: 40rem;
+    float: left;
+    position: relative;
+    margin-right: 1rem;
+}
+
+.bilde2 img {
+    width: 20rem;
+    float: right;
+    position: absolute;
+    left: 41rem;
+    top: 5rem;
+}
+
+.bildetekst1 {
+    margin-top: 32rem;
+    width: 20rem;
+    float: left;
+
+}
+
+.bildetekst2 {
+    margin-top: 2rem;
+    width: 20rem;
+    float: left;
+}
+
+.box4 {
+    background-color: rgb(255, 212, 160);
+    width: 940px;
+    margin-bottom: 5rem;
+    padding: 100px;
+}
+
+.box4 h2 {
+    width: 50%;
+    padding-bottom: 1rem;
+}
+.box4 p {
+    width: 50%;
+    text-align: justify;
+}
+
 
 .helena {
     margin-top: 20px;
@@ -201,7 +287,6 @@ main p {
 }
 .main-image-he img {
     width: 65rem;
-    height: 78rem;
     float: right;
     position: absolute;
     margin-top: 10px;
@@ -211,10 +296,9 @@ main p {
 .lite-bilde-he img {
     position: absolute;
     width: 420px;
-    height: 550px;
     top: 10rem;
     left: 6rem;
-    border: solid 1rem white;
+    border: solid 1rem #fff7ed;
     float: right;
     
 }
