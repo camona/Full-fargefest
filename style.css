@@ -114,7 +114,6 @@ header p {
     background-color:#efdcdf;
     width: 940px;
     height: 33rem; 
-    margin-bottom: 6rem;
     padding: 30px;
     
 }
@@ -149,7 +148,6 @@ main p {
 
 .bilder-sammen {
     position: relative;
-    margin-top: 20rem;
     width: 940px;
 }
 
