@@ -93,6 +93,7 @@ header p {
     width: 940px;
     margin: auto;
     padding: 20px;
+    margin-top: 240px;
     
 }
 
@@ -314,7 +315,7 @@ main p {
     height: 4rem;
     bottom: -60rem;
     left: 21rem;
-    float: right;
+    
     
 }
 
