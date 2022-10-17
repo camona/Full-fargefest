@@ -88,7 +88,7 @@ header p {
 }
 
 
-.lises-bilde{
+.box1og2-bilde{
     width: 80rem;
     height: 30rem;
     position: relative;
@@ -102,12 +102,11 @@ header p {
 }
 
 .tekst-bilde-1{
-    font-weight: var(--font-body-text);
-    margin-top: 10rem;
-    width: 20rem;
+    margin-top: 8rem;
+    width: 13rem;
     float: left;
     text-align: right;
-    margin-left: 10rem;
+    margin-left: 18rem;
 }
 
 .boxtekst1og2 {
@@ -135,15 +134,8 @@ header p {
 main h2 {
     font-weight: var(--font-sub-header);
     font-size: 16px;
+    padding-bottom: 1rem;
 }
-
-main p {
-    font-weight: var(--font-body-text);
-    font-size: 16px;
-}
-
-
-
 
 
 .bilder-sammen {
