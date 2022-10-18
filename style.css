@@ -112,7 +112,7 @@ header p {
 .boxtekst1og2 {
     background-color:#efdcdf;
     width: 940px;
-    height: 33rem; 
+    height: 31rem; 
     padding: 30px;
     
 }
@@ -120,7 +120,7 @@ header p {
 .maincolumn {
     float: left;
     width: 50%;
-    padding: 80px;
+    padding: 60px;
     text-align: justify;
 
 }
@@ -145,7 +145,6 @@ main h2 {
 }
 
 .main-image {
-    float: right;
     position: relative;
     margin-top: 100px;
     margin-right: 17rem;
@@ -155,7 +154,7 @@ main h2 {
     position: absolute;
     width: 25%;
     top: 10rem;
-    left: -14rem;
+    left: -12rem;
     text-align: right;
 }
 
