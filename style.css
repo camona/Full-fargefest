@@ -112,7 +112,7 @@ header p {
 .boxtekst1og2 {
     background-color:#efdcdf;
     width: 940px;
-    height: 33rem; 
+    height: 31rem; 
     padding: 30px;
     
 }
@@ -120,7 +120,7 @@ header p {
 .maincolumn {
     float: left;
     width: 50%;
-    padding: 80px;
+    padding: 60px;
     text-align: justify;
 
 }
