@@ -306,8 +306,8 @@ main h2 {
     position: absolute;
     width: 4rem;
     height: 4rem;
-    bottom: -60rem;
-    left: 21rem;
+    bottom: -58rem;
+    left: 22rem;
     
     
 }
@@ -315,7 +315,7 @@ main h2 {
 .tekst-lite-bilde-foot {
     position: absolute;
     width: 330px;
-    margin-top: 45rem;
+    margin-top: 43rem;
     margin-left: 8rem;
     text-align: left;
     left: -1rem;
@@ -325,7 +325,7 @@ main h2 {
     position: absolute;
     width: 25rem;
     top: 29rem;
-    margin-top: 46rem;
+    margin-top: 42rem;
     padding-top: 5rem;
     margin-left: 28rem;
     padding-bottom: 10rem;
@@ -333,7 +333,7 @@ main h2 {
 .vertical-line {
     border-left: 5px dotted black;
     height: 34rem;
-    bottom: -90rem;
+    bottom: -88rem;
     position: absolute;
     left: 27rem;
     margin-left: 0px;
@@ -346,13 +346,13 @@ main h2 {
     text-transform: uppercase;
     float: right;
     margin-left: 11rem;
-    margin-top: 62rem;
+    margin-top: 60rem;
   }
   .list-instagram {
     position: absolute;
     text-transform: uppercase;
     margin-left: 12rem;
-    margin-top: 64rem;
+    margin-top: 62rem;
     text-align: right;
     line-height: 1.5rem;
   }
@@ -365,14 +365,14 @@ main h2 {
     text-transform: uppercase;
     float: right;
     margin-left: 13rem;
-    margin-top: 71rem;
+    margin-top: 69rem;
   }
   .list-instagram2 {
     float: right;
     position: absolute;
     text-transform: uppercase;
     margin-left: 17rem;
-    margin-top: 72.5rem;
+    margin-top: 71rem;
     text-align: right;
     margin-bottom: -5rem;
   }
