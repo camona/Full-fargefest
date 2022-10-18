@@ -87,7 +87,6 @@ header p {
     margin-bottom: 5rem;
 }
 
-
 .box1og2-bilde{
     width: 80rem;
     height: 30rem;
@@ -113,16 +112,14 @@ header p {
     background-color:#efdcdf;
     width: 940px;
     height: 31rem; 
-    padding: 30px;
-    
+    padding: 50px;
 }
 
 .maincolumn {
     float: left;
     width: 50%;
-    padding: 60px;
+    padding: 50px;
     text-align: justify;
-
 }
 
 .row:after {
@@ -136,7 +133,6 @@ main h2 {
     font-size: 16px;
     padding-bottom: 1rem;
 }
-
 
 .bilder-sammen {
     position: relative;
@@ -163,7 +159,7 @@ main h2 {
     font-weight: bold;
     font-size: 1.5rem;
     top: 1rem;
-    right: 1rem;
+    right: -7rem;
     font-family: 'Yeseva One', cursive;
 }
 
@@ -328,7 +324,6 @@ main h2 {
     bottom: -26rem;
     position: absolute;
     left: 27rem;
-
   }
 
   .insta-header {
